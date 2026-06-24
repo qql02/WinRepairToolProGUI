@@ -1,0 +1,5 @@
+{
+  "version": "2.3.0",
+  "download": "https://github.com/qql02/WinRepairToolProGUI/raw/main/WinRepairToolPro.exe",
+  "changelog": "- إضافة Auto-RAM Cleanup (تنظيف تلقائي للذاكرة كل ساعة)\n- تحديث لتوافق أداة Hesham Taha v1.5"
+}
