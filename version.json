@@ -1,0 +1,5 @@
+﻿{
+  "version": "2.3.3",
+  "download": "https://raw.githubusercontent.com/qql02/WinRepairToolProGUI/main/win-x64.zip",
+  "changelog": "- تحديث تجريبي للتأكد من نظام التحديث\n- يظهر في About: Test update build 2.3.3"
+}
