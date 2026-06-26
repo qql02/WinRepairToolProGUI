@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2.3.4",
+    "version":  "2.3.3",
     "baseUrl":  "https://raw.githubusercontent.com/qql02/WinRepairToolProGUI/main/win-x64/",
     "launch":  "WindowsRepairToolPro.exe",
     "changelog":  "- تحديث تجريبي بنظام الملفات المفكوكة\n- يسحب الملفات من GitHub واحداً واحداً ويثبتها",
