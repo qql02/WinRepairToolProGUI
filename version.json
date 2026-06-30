@@ -1,5 +1,5 @@
 ﻿{
-    "version": "2.3.7",
+    "version": "2.3.8",
     "baseUrl": "https://raw.githubusercontent.com/qql02/WinRepairToolProGUI/main/win-x64/",
     "launch": "WindowsRepairToolPro.exe",
     "changelog": "- تحديث قائمة الملفات لتتوافق مع البناء الجديد\n- إزالة ملفات resources المكررة (17 ملف)\n- إضافة WindowsRepairToolPro.pdb",
